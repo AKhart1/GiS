@@ -1,2 +1,2 @@
 # GiS
- Project
+ Project related to graphs
